@@ -15,6 +15,30 @@
 #  pageRef = "posts"
 #  weight = 10
 
+[[main]]
+  identifier = "email"
+  pre = "email"
+  url = "mailto:contact@bcarey.me"
+  weight = 50
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/bcix3"
+  weight = 51
+
+[[main]]
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "https://linkedin.com/in/b-carey"
+  weight = 52
+
+[[main]]
+  identifier = "lastfm"
+  pre = "lastfm"
+  url = "https://www.last.fm/user/b0bsquish"
+  weight = 53
+
 # [[main]]
 #  name = "Parent"
 #  weight = 20
