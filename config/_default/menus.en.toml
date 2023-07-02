@@ -39,6 +39,16 @@
   url = "https://www.last.fm/user/b0bsquish"
   weight = 53
 
+  [[main]]
+  identifier = "Bluesky"
+  pre = "twitter"
+  url = "https://bsky.app/profile/bcarey.me"
+  weight = 54
+
+
+
+  
+
 # [[main]]
 #  name = "Parent"
 #  weight = 20
